@@ -1,0 +1,17 @@
+ set number
+ set linebreak
+ set showbreak=+++
+ set textwidth=100
+ set autoindent
+ set shiftwidth=2
+ set smartindent
+ set smarttab
+ set softtabstop=2
+ set undolevels=1000
+ set background=dark
+ set backspace=indent,eol,start
+ set nocompatible
+ filetype on
+ filetype plugin on
+ filetype indent on
+ syntax on
